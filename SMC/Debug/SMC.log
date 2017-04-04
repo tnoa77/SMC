@@ -1,15 +1,20 @@
-﻿Build started 2017/4/4 13:50:58.
-     1>Project "c:\Users\miyauchirenge\documents\visual studio 2013\Projects\SMC\SMC\SMC.vcxproj" on node 2 (Build target(s)).
-     1>ResourceCompile:
+﻿Build started 2017/4/4 16:07:27.
+     1>Project "C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\SMC\SMC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SMC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SMC.cpp SMCDlg.cpp
+         Skipping... (no relevant changes detected)
+         SMCDlg.cpp
+         SMC.cpp
+       ResourceCompile:
          C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\SMC.res" SMC.rc 
        Link:
-         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\miyauchirenge\documents\visual studio 2013\Projects\SMC\Debug\SMC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\miyauchirenge\documents\visual studio 2013\Projects\SMC\Debug\SMC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\miyauchirenge\documents\visual studio 2013\Projects\SMC\Debug\SMC.lib" /MACHINE:X86 Debug\SMC.res
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\Debug\SMC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\Debug\SMC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\Debug\SMC.lib" /MACHINE:X86 Debug\SMC.res
          Debug\SMC.obj
          Debug\SMCDlg.obj
          Debug\stdafx.obj
-         SMC.vcxproj -> c:\users\miyauchirenge\documents\visual studio 2013\Projects\SMC\Debug\SMC.exe
-     1>Done Building Project "c:\Users\miyauchirenge\documents\visual studio 2013\Projects\SMC\SMC\SMC.vcxproj" (Build target(s)).
+         SMC.vcxproj -> C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\Debug\SMC.exe
+     1>Done Building Project "C:\Users\MiyauchiRenge\Documents\Visual Studio 2013\Projects\SMC\SMC\SMC.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.73
+Time Elapsed 00:00:02.34

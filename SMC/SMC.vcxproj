@@ -101,6 +101,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PromaItem.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="SMC.h" />
     <ClInclude Include="SMCDlg.h" />
